@@ -19,3 +19,9 @@ $ node index.js
 
 # The server will initialize in the <http://localhost:3000>
 ```
+
+## Sample Photos
+![image](https://github.com/hashir-mohd/bandNameGenerator/assets/142725430/1e000359-3446-44fb-a848-52a92cf6657d)
+
+![image](https://github.com/hashir-mohd/bandNameGenerator/assets/142725430/b51dcada-e983-40d2-9aba-e22d79577037)
+
