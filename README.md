@@ -26,7 +26,7 @@ $ node index.js
 - This command will build the image from the dockerfile and run as docker-compose
 
 ```bash
-docker-compose up 
+docker-compose up # to run this docker in foreground
 docker-comopse up -d # to run this docker in background
 docker-compose down # stop the background running docker
 ```
